@@ -18,6 +18,7 @@ A modern web application built with **Streamlit** and **Scikit-Learn** that pred
 ├── .venv/               # Virtual environment folder
 ├── app.py               # Main Streamlit web application
 ├── main.py              # Model training and evaluation script
+├── CodeJup.ipynb        # Experimental Jupyter Notebook for data exploration
 ├── student_data.csv     # Dataset for training the model
 ├── model.pkl            # Trained and serialized machine learning model
 └── requirements.txt     # List of project dependencies
